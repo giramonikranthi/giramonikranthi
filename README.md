@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/giramonikranthi"><img src="https://img.shields.io/badge/GitHub-giramonikranthi-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kranthi-giramoni"><img src="https://img.shields.io/badge/LinkedIn-kranthi--giramoni-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/AI%2FML-Engineering-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative-AI-8E44AD?style=for-the-badge" />
 </p>
@@ -16,7 +16,7 @@
 - 🌱 Working deeply on **RAG, LLM apps, AI Agents, and MLOps**
 - 👨‍💻 Explore my projects: [github.com/giramonikranthi](https://github.com/giramonikranthi)
 - 💬 Ask me about **Machine Learning, GenAI, Data Science, and Deployment**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **kranthigiramoni**
 - ⚡ Fun fact: I enjoy turning research ideas into real-world AI products
 
 ---
@@ -51,12 +51,12 @@
 ### 🛤️ Journey Timeline
 
 ```text
-2020  Foundations        → Python • ML • Data Science
-2021  Applied ML         → Feature Engineering • Predictive Modeling • NLP
-2022  Advanced AI        → Deep Learning • Computer Vision
-2023  GenAI Shift        → LLMs • Prompt Engineering • RAG
-2024  AI Engineering     → LangChain • Agents • Vector Databases
-2025  Production AI      → MLOps • MLflow • Deployment
+2020  Foundations         → Python • ML • Data Science
+2021  Applied ML          → Feature Engineering • Predictive Modeling • NLP
+2022  Advanced AI         → Deep Learning • Computer Vision
+2023  GenAI Shift         → LLMs • Prompt Engineering • RAG
+2024  AI Engineering      → LangChain • Agents • Vector Databases
+2025  Production AI       → MLOps • MLflow • Deployment
 2026  Intelligent Systems → Agentic AI • Production ML • AI Platforms
 ```
 
@@ -65,4 +65,5 @@
 ### 🤝 Connect With Me
 
 - GitHub: [github.com/giramonikranthi](https://github.com/giramonikranthi)
-- LinkedIn: [Add your LinkedIn URL]([https://www.linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/kranthi-giramoni/))
+- LinkedIn: [linkedin.com/in/kranthi-giramoni](https://www.linkedin.com/in/kranthi-giramoni)
+- Email: **kranthigiramoni**
